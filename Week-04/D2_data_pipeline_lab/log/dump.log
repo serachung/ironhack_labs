@@ -1,0 +1,36 @@
+2020-03-24 22:35:13.129 INFO data_preparation - run: Accessing URL https://www.cinemark.com.br/sao-paulo/filmes/em-cartaz.
+2020-03-24 22:38:24.125 INFO data_preparation - run: Accessing URL https://www.cinemark.com.br/sao-paulo/filmes/em-cartaz.
+2020-03-24 22:38:24.374 INFO data_gathering - done: Verifying if A Maldição do Espelho movie already exists
+2020-03-24 22:39:28.565 INFO data_preparation - run: Accessing URL https://www.cinemark.com.br/sao-paulo/filmes/em-cartaz.
+2020-03-24 22:39:28.807 INFO data_gathering - done: Verifying if A Maldição do Espelho movie already exists
+2020-03-24 22:39:52.680 INFO data_preparation - run: Accessing URL https://www.cinemark.com.br/sao-paulo/filmes/em-cartaz.
+2020-03-24 22:39:53.004 INFO data_gathering - done: Verifying if A Maldição do Espelho movie already exists
+2020-03-24 22:41:00.659 INFO data_preparation - run: Accessing URL https://www.cinemark.com.br/sao-paulo/filmes/em-cartaz.
+2020-03-24 22:41:19.761 INFO data_preparation - run: Accessing URL https://www.cinemark.com.br/sao-paulo/filmes/em-cartaz.
+2020-03-24 22:42:08.427 INFO data_preparation - run: Accessing URL https://www.cinemark.com.br/sao-paulo/filmes/em-cartaz.
+2020-03-24 22:42:09.870 INFO data_gathering - done: Verifying if A Maldição do Espelho movie already exists
+2020-03-24 22:42:34.713 INFO data_preparation - run: Accessing URL https://www.cinemark.com.br/sao-paulo/filmes/em-cartaz.
+2020-03-24 22:42:35.470 INFO data_gathering - done: Verifying if A Maldição do Espelho movie already exists
+2020-03-24 22:43:20.177 INFO data_preparation - run: Accessing URL https://www.cinemark.com.br/sao-paulo/filmes/em-cartaz.
+2020-03-24 22:43:20.728 INFO data_gathering - done: Verifying if A Maldição do Espelho movie already exists
+2020-03-24 22:44:05.420 INFO data_preparation - run: Accessing URL https://www.cinemark.com.br/sao-paulo/filmes/em-cartaz.
+2020-03-24 22:44:06.146 INFO data_gathering - done: Verifying if A Maldição do Espelho movie already exists
+2020-03-24 22:44:06.147 INFO data_storage - done: Checking if storage node is up-to-date.
+2020-03-25 14:09:08.129 INFO data_requirements - check: Accessing URL https://www.cinemark.com.br/sao-paulo/filmes/em-cartaz.
+2020-03-25 14:09:08.366 INFO data_gathering - done: Verifying if A Maldição do Espelho movie already exists
+2020-03-25 14:09:08.367 INFO data_storage - done: Checking if storage node is up-to-date.
+2020-03-25 14:13:24.016 INFO data_requirements - check: Accessing URL https://www.cinemark.com.br/sao-paulo/filmes/em-cartaz.
+2020-03-25 14:13:24.469 INFO data_gathering - done: Verifying if A Maldição do Espelho movie already exists
+2020-03-25 14:13:24.470 INFO data_storage - done: Checking if storage node is up-to-date.
+2020-03-25 14:13:51.258 INFO data_requirements - check: Accessing URL https://www.cinemark.com.br/sao-paulo/filmes/em-cartaz.
+2020-03-25 14:13:51.882 INFO data_gathering - done: Verifying if A Maldição do Espelho movie already exists
+2020-03-25 14:13:51.883 INFO data_storage - done: Checking if storage node is up-to-date.
+2020-03-25 14:14:28.409 INFO data_requirements - check: Accessing URL https://www.cinemark.com.br/sao-paulo/filmes/em-cartaz.
+2020-03-25 14:14:28.858 INFO data_gathering - done: Verifying if A Maldição do Espelho movie already exists
+2020-03-25 14:14:28.859 INFO data_storage - done: Checking if storage node is up-to-date.
+2020-03-25 14:16:11.770 INFO data_requirements - check: Accessing URL https://www.cinemark.com.br/sao-paulo/filmes/em-cartaz.
+2020-03-25 14:16:12.081 INFO data_gathering - done: Verifying if A Maldição do Espelho movie already exists
+2020-03-25 14:16:12.082 INFO data_storage - done: Checking if storage node is up-to-date.
+2020-03-25 14:17:41.518 INFO data_requirements - check: Accessing URL https://www.cinemark.com.br/sao-paulo/filmes/em-cartaz.
+2020-03-25 14:17:42.224 INFO data_gathering - done: Verifying if A Maldição do Espelho movie already exists
+2020-03-25 14:17:42.225 INFO data_storage - done: Checking if storage node is up-to-date.
